@@ -1,7 +1,7 @@
 ## **👨‍💻 Sobre Mim** 
 
 🎓 **Formação:** Tecnólogo em Análise e Desenvolvimento de Sistemas  
-📍 **Localização:** Gaspar, Pará  
+📍 **Localização:** Gaspar, SC  
 🚀 **Foco Atual:** Desenvolvimento Mobile com Flutter e Backend com Django  
 
 Sou apaixonado por criar soluções tecnológicas que resolvem problemas reais, combinando:  
